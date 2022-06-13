@@ -5,7 +5,7 @@ from food import Food
 from score import Score
 screen = Screen()
 screen.listen()
-screen.bgcolor("black")
+screen.bgcolor("#123")
 screen.title("Snake Game")
 screen.setup(600, 600)
 screen.tracer(0)

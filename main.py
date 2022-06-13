@@ -6,7 +6,7 @@ from score import Score
 screen = Screen()
 screen.listen()
 screen.bgcolor("black")
-screen.title("SNakE GaMe")
+screen.title("Snake Game")
 screen.setup(600, 600)
 screen.tracer(0)
 
